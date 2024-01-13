@@ -26,8 +26,8 @@ cd [project-directory]
 3. Install dependencies
 npm install
 ### Configuration
--DB_URI=mongodb://localhost:27017/bloggingApp
--JWT_SECRET=your_jwt_secret
+1. DB_URI=mongodb://localhost:27017/bloggingApp
+2. JWT_SECRET=your_jwt_secret
 ### Running the Application
 Run the application using the following command:
 npm start
