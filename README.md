@@ -31,3 +31,5 @@ npm install
 ### Running the Application
 Run the application using the following command:
 npm start
+### License
+Distributed under the MIT License. See LICENSE for more information.
