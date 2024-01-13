@@ -3,7 +3,7 @@
 This repository contains the backend code for a blogging application built using Node.js, Express.js, and MongoDB. It's designed to handle various blogging functionalities including user authentication, posting blogs, commenting, and more.
 ## Features
 1. User Authentication (Signup/Login)
-2. CRUD Operations for Blog Posts
+2. CRUD Operations for Blog Posts and User Profile
 3. Commenting System
 4. User Profile Management
 5. Database Integration with MongoDB
